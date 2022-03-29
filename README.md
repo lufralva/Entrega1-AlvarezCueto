@@ -1,4 +1,4 @@
-# Entrega1Diana
+# Entrega1-AlvarezCueto
 
 Esta es la primera entrega del proyecto final curso Python - Coderhouse
 
